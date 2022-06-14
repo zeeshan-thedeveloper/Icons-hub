@@ -25,7 +25,6 @@ async function handler(req, res) {
             responseMessage: "Wrong email or password",
             responsePayload: result,
           });
-          
         }else{
           res.status(201).json({
             responseCode: 1,
