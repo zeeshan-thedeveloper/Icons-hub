@@ -1,0 +1,123 @@
+.illustrationTitleHeading{
+    background-color: #1F2937;
+    color: white;
+}
+.illustrationContainer{
+    background-color: #F8F9F9;
+} 
+
+.illustrationCard{
+    border-radius: 0.5rem;
+    min-height: 10rem;
+    position: relative;
+}
+.illustrationBottomTitle{
+
+    width: 100%;
+    
+}
+.illustrationImageHolder{
+    min-height: 6rem;
+    
+}
+
+/* Newest Illustrations */
+
+.newestIllustrationsCard{
+    border-radius: 0.5rem;
+    min-height: 10rem;
+    position: relative;
+  
+}
+.newestIllustrationsBottomTitle{
+
+    width: 100%;
+    padding:'2rem';
+}
+.newestIllustrationsImageHolder{
+    min-height: 5rem;
+}
+.newestIllustrationsTitleHeading{
+    background-color: #1F2937;
+    color: white;
+}
+.newestIllustrationsContainer{
+    background-color: #F8F9F9;
+}
+
+.designDescModalBody{
+    height: '10rem';
+  
+}
+.colorPickerContainerForCard{
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.colorPickerForHeading{
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+}
+.downloadBtn{
+    text-align: center;
+    background-color: rgb(65, 81, 153);
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+}
+.colorCircleForCard{
+    height: 0.6rem;
+    width: 0.6rem;
+    border-radius: 0.2rem;  
+    cursor: pointer; 
+}
+.colorCircleForHeading{
+    height: 1rem;
+    width: 1rem;
+    border-radius: 0.2rem;  
+    cursor: pointer; 
+}
+
+/* download modal */
+.illustrationModalImage{
+    padding: 1rem;
+    min-height: 15rem;
+
+}
+/* .downloadChoiceButtonCotnainer{
+
+} */
+.colorCircleForDownloadModal{
+    height: 1rem;
+    width: 1rem;
+    border-radius: 0.2rem;  
+    cursor: pointer; 
+}
+
+
+/* Populer illlustration container */
+.populerIllustrationsCard{
+    border-radius: 0.5rem;
+    min-height: 10rem;
+    position: relative;
+  
+}
+.populerIllustrationsBottomTitle{
+
+    width: 100%;
+    padding:'2rem';
+}
+.populerIllustrationsImageHolder{
+    min-height: 5rem;
+}
+.populerIllustrationsTitleHeading{
+    background-color: #1F2937;
+    color: white;
+}
+.populerIllustrationsContainer{
+    background-color: #F8F9F9;
+}

@@ -1,0 +1,53 @@
+
+/*------------------------ Catagories -------------------- */
+.catagoryCard{
+    border-radius: 0.5rem;
+    min-height: 10rem;
+    position: relative;
+}
+.catagoryBottomTitle{
+
+    width: 100%;
+    
+}
+.catagoryImageHolder{
+    min-height: 6rem;
+    
+}
+.catagoriesTitleHeading{
+    background-color: #4B51D3;
+    color: white;
+}
+.catagoryContainer{
+    background-color: #F8F9F9;
+}
+
+/* ---------------------- Newest designs --------------------- */
+
+.newestDesignCard{
+    border-radius: 0.5rem;
+    min-height: 10rem;
+    position: relative;
+    cursor: pointer;
+}
+.newestDesignBottomTitle{
+
+    width: 100%;
+    padding:'2rem';
+}
+.newestDesignImageHolder{
+    min-height: 5rem;
+}
+.newestDesignTitleHeading{
+    background-color: #4B51D3;
+    color: white;
+}
+.newestDesignContainer{
+    background-color: #F8F9F9;
+}
+
+
+.designDescModalBody{
+    height: '10rem';
+  
+}
